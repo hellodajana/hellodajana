@@ -1,6 +1,6 @@
 ### Hi there, my name is Dajana 👋
 
-I'm a passionate self-taught frontend developer with 10 years experience in data analasys. From writing complex MS functions to first time writing "hello world", I was instantly hooked and knew I wanted to learn more.
+I'm a passionate self-taught frontend developer with 10 years experience in data analasys. From writing complex MS functions to first time writing "hello world", I was instantly hooked and knew I started a lifetime journey.
 
 - 🌱 I'm currently learning functional programming in JS
 - 🌸 I'm open to collaboration on web related projects
