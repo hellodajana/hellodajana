@@ -2,7 +2,7 @@
 
 I'm a passionate self-taught frontend developer with 10 years experience in data analysis. From writing complex MS functions to first time writing "hello world", I was instantly hooked and knew I started a lifetime journey.
 
-- 🌱 I'm currently learning functional programming in JS
+- 🌱 I'm currently learning React
 - 🌸 I'm open to collaboration on web related projects
 - 🐶 I'm obsessed with old Hollywood movies and my puppy Coco
 - 📫 You can connect with me on [Twitter](https://twitter.com/hellodajana) and [LinkedIn](https://www.linkedin.com/in/dajana-smolyakov/)
