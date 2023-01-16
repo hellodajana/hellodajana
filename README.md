@@ -8,9 +8,9 @@ I'm a passionate frontend developer with 10 years' experience in data analysis. 
 - 🐶 I'm obsessed with old Hollywood movies and my puppy Coco
 - 📫 You can connect with me on [Twitter](https://twitter.com/hellodajana) and [LinkedIn](https://www.linkedin.com/in/dajana-smolyakov/)
 
-## 🙋🏻‍♀️ Currently I am looking for Frontend development opportunities with a team that I can grow and learn with.
+#### 🙋🏻‍♀️ Currently I am looking for Frontend development opportunities with a team that I can grow and learn with.
 
-## Skills
+### Skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
