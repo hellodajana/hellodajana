@@ -2,7 +2,7 @@
 
 I'm a passionate frontend developer with 10 years' experience in data analysis. From writing complex MS functions to first time writing "hello world", I was instantly hooked and knew I started a lifetime journey.
 
-- 🌱 I'm currently learning Node.js
+- 🌱 I'm currently learning Typescript
 - 🌸 I'm open to collaboration on web related projects
 - 🌍 I'm based in Stockholm, Sweden
 - 🐶 I'm obsessed with old Hollywood movies and my puppy Coco
