@@ -6,7 +6,7 @@ I'm a passionate frontend developer with 10 years' experience in data analysis. 
 - 🌸 I'm open to collaboration on web related projects
 - 🌍 I'm based in Stockholm, Sweden
 - 🐶 I'm obsessed with old Hollywood movies and my puppy Coco
-- 📫 You can connect with me on [Twitter](https://twitter.com/hellodajana) and [LinkedIn](https://www.linkedin.com/in/dajana-smolyakov/)
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/dajana-smolyakov/)
 
 
 ### Skills
